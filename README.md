@@ -28,7 +28,7 @@ checkBalance(),
 changePin(), 
 authenticate()
 
-Error handling using the error type,
+Error handling ,
 fmt package ,
 Conditionals to check for invalid user input , 
 Loops to process user input forloop.
