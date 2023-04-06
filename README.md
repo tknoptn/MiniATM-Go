@@ -1,8 +1,8 @@
 # Account Management(ATM) using Go 
 
-# By using this code, a programme that lets the user interact with their bank account . 
+## By using this code, a programme that lets the user interact with their bank account . 
 
-## It establishes a type named Account that includes details like the ID, name, balance, and PIN. The programme then has features that let the user make withdrawals, deposits, balance checks, and PIN changes.
+### Account Management. The programme has features that let the user make withdrawals, deposits, balance checks, and PIN changes.
 
 
 creates an account struct with fields for an id, name, balance and pin. It also contains methods for withdrawing, depositing, checking the balance, changing the pin and authenticating the user.
